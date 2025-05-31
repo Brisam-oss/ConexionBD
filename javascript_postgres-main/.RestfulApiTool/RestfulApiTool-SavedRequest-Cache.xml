@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SavedRequest.Cache">
+    <option name="cache">
+      <map>
+        <entry key="Requests" value="[{&quot;id&quot;:&quot;1748362942902c4uc&quot;, &quot;parentId&quot;:&quot;0&quot;, &quot;name&quot;:&quot;https://localhost:3000/films&quot;, &quot;desc&quot;:&quot;&quot;, &quot;sort&quot;:&quot;0&quot;, &quot;child&quot;:[], &quot;icon&quot;:&quot;/icons/tool/request.svg&quot;, &quot;type&quot;:&quot;REQUEST&quot;, &quot;method&quot;:&quot;GET&quot;, &quot;url&quot;:&quot;https://localhost:3000/films&quot;, &quot;savedRequestEnvInfo&quot;:null, &quot;savedRequestParamInfo&quot;:{&quot;params&quot;:&quot;[]&quot;, &quot;authorization&quot;:&quot;{\&quot;token\&quot;:\&quot;\&quot;,\&quot;password\&quot;:\&quot;\&quot;,\&quot;selectType\&quot;:\&quot;No Auth\&quot;,\&quot;username\&quot;:\&quot;\&quot;}&quot;, &quot;headers&quot;:&quot;[]&quot;, &quot;body&quot;:[{&quot;index&quot;:&quot;0&quot;, &quot;select&quot;:&quot;false&quot;, &quot;params&quot;:&quot;&quot;}, {&quot;index&quot;:&quot;1&quot;, &quot;select&quot;:&quot;false&quot;, &quot;params&quot;:&quot;[]&quot;}, {&quot;index&quot;:&quot;2&quot;, &quot;select&quot;:&quot;false&quot;, &quot;params&quot;:&quot;[]&quot;}, {&quot;index&quot;:&quot;3&quot;, &quot;select&quot;:&quot;true&quot;, &quot;params&quot;:&quot;{\&quot;title\&quot;:\&quot;Las cronicas de narnia\&quot;,\&quot;description\&quot;:\&quot;Se centra en el mundo mágico de Narnia y las aventuras de los hermanos Pevensie y otros personajes\&quot;}&quot;}]}}]" />
+      </map>
+    </option>
+  </component>
+</project>
